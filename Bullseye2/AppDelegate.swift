@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Bullseye2
 //
-//  Created by Jeannine Roxas on 9/12/20.
+//  Created by Jonathon Belliveau on 9/7/20.
 //  Copyright © 2020 Jonathon Belliveau. All rights reserved.
 //
 
